@@ -89,6 +89,7 @@ class GxEPD2
       GDEW075Z08,  Waveshare_7_5_bwr_Z08 = GDEW075Z08,
       GDEH075Z90,  Waveshare_7_5_bwr_Z90 = GDEH075Z90,
       GDEM0122T61, // Lilygo T-ECHO LITE display
+      GDEW0102T4, // Lilygo Mini-ePaper-S3
     };
 };
 
